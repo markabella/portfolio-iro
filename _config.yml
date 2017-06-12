@@ -22,12 +22,12 @@ theme_settings:
   email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
-  dribbble: 
-  facebook: 
+  dribbble:
+  facebook:
   flickr:
   github: "markabella"
   google_plus:
-  instagram: 
+  instagram:
   linkedin: "https://www.linkedin.com/in/markabella/"
   pinterest:
   reddit:
@@ -35,12 +35,12 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: 
+  twitter:
   wordpress:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-100899945-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 
