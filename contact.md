@@ -2,10 +2,9 @@
 layout: page
 title: Contact
 permalink: /contact/
-feature-img: "img/sample_feature_img_3.png"
 ---
 
-Please leave your phone number and best time to call (include time zone if you're outside California).
+Please leave your phone number and best time to call (plus Time Zone if you're outside California).
 
 <form action="https://getsimpleform.com/messages?form_api_token=3b73e02163b4de24c316c9ecb3b213d7" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->

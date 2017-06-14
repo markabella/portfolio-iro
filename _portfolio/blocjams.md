@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Bloc Jams
-feature-img: "img/sample_feature_img.png"
 thumbnail-path: "http://markabella.me/img/blocjams.png"
 short-description: Online Music Player
 

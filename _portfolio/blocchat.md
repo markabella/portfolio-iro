@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Bloc Chat
-feature-img: "img/sample_feature_img.png"
 thumbnail-path: "http://markabella.me/img/blocchat.png"
 short-description: Realtime Chat Rooms
 
