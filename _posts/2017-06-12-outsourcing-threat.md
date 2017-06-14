@@ -1,9 +1,9 @@
-﻿---
+---
 layout: post
 title: The Outsourcing Threat
 ---
 
-<b>I once feared all programming jobs would be outsourced...</b>
+<h4>I once feared all programming jobs would be outsourced…</h4>
 
 As much as I enjoyed the first coding class I took in college, I didn’t want to go into a career that would be shipped overseas. It just seemed so easy for businesses to hire programmers for a fraction of the cost in another country. While online marketing in the US, I even outsourced work to the Philippines.
 
@@ -25,7 +25,7 @@ So now I have good feel for what business outsourcing is and can be.
 
 Guess what? Based on new information from my experience, I enrolled back into Computer Science when I returned to the US. I no longer feared all programming jobs being outsourced. The thought to me now is ridiculous.
 
-For a job as complex as software development, you want to work with someone you can be on the same page on most of the time. You don't want to be tied up in constant miscommunication.  
+For a job as complex as software development, you want to work with someone you can be on the same page on most of the time. You don’t want to be tied up in constant miscommunication.
 
 <h4>Culture Fit</h4>
 When hiring, wise companies seek out culture fit. Maybe a candidate can do a specific job, but if both candidate and company values don’t match, it’s like attempting an organ transplant with conflicting blood types. Get ready for failure and rejection.
@@ -34,6 +34,6 @@ Cultures around the world are different, obviously. Now, let’s say someone fro
 
 Now, let’s say you attempt to impose your culture and values on that same person. Does that play out differently? Both are trying to change the other and nothing gets done.
 
-<b>Here’s the kicker:</b> neither person thinks they’re trying to impose anything on the other. That’s not a recipe for a successful business. That’s the recipe for failure.
+Here’s the kicker: neither person thinks they’re trying to impose anything on the other. That’s not a recipe for a successful business. That’s the recipe for failure.
 
-More importantly, that’s the reality of many who have tried to outsource overseas and discovered it's not all that it's cracked up be.
+More importantly, that’s the reality of many who have tried to outsource overseas and discovered it’s not all that it’s cracked up be.

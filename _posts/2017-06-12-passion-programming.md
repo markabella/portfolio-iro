@@ -1,16 +1,16 @@
-﻿---
+---
 layout: post
 title: Passion for Programming
 ---
 
-<b>“You’re wrong and you’re crazy, but I fully support you.”</b>
+<h4>“You’re wrong and you’re crazy, but I fully support you.”</h4>
 
-My co-worker Valarie was joking and serious. I had just told her I was ending my state job to start a new career in software development.
+My co-worker Valarie was joking and serious. I had just told her I was ending my state job to start a new career as a software developer.
 
-Now I realize how crazy that might have seemed...
+Now I realize how crazy that might have seemed…
 
 <h4>A State Job</h4>
-In general, state workers’ number one value is security. With many government positions, you can attain civil service status. This means after a certain amount of time you would always have that position (unless you did something incredibly stupid to get fired). That’s why many covet the state job. You're virtually unfireable.
+In general, state workers’ number one value is security. With many government positions, you can attain civil service status. This means after a certain amount of time you would always have that position (unless you did something incredibly stupid to get fired). That’s why many covet the state job. You’re virtually unfireable.
 
 Not only that, but the benefits in California are amazing: healthcare and a generous pension. If you value security and benefits above all else, then you might find yourself at home in government position. To leave such a sacred position was blasphemy.
 
