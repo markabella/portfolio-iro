@@ -2,11 +2,10 @@
 layout: post
 title: Bloc Jams
 feature-img: "img/sample_feature_img.png"
-thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030966/blocjams_1x.png"
+thumbnail-path: "http://markabella.me/img/blocjams.png"
 short-description: Spotify like Online Music Player
 
 ---
-
 <h4>Summary</h4>
 Spotify uses a cool music player to allow users to enjoy music online while browsing their website. Building this type music player and site from scratch allowed me to learn and apply key concepts of frontend development via Bloc's Software Development Track.
 
