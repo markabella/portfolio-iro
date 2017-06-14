@@ -1,10 +1,10 @@
----
+﻿---
 layout: post
 title: The Outsourcing Threat
 ---
-<b>I once feared all programming jobs would be outsourced...</b>
+<h4>I once feared all programming jobs would be outsourced...</h4>
 
-As much as I enjoyed the first coding class I took in college, I didn’t want to go into a career that would be shipped overseas. It just seemed so easy for businesses to hire programmers for a fraction of the cost to another country. While online marketing in the US, I even outsourced work to the Philippines.
+As much as I enjoyed the first coding class I took in college, I didn’t want to go into a career that would be shipped overseas. It just seemed so easy for businesses to hire programmers for a fraction of the cost in another country. While online marketing in the US, I even outsourced work to the Philippines.
 
 This got me thinking. Why be afraid? Why not embrace it.
 
