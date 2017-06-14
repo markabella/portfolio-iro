@@ -3,7 +3,7 @@ layout: post
 title: Bloc Jams
 feature-img: "img/sample_feature_img.png"
 thumbnail-path: "http://markabella.me/img/blocjams.png"
-short-description: Spotify like Online Music Player
+short-description: Online Music Player
 
 ---
 <h4>Summary</h4>
