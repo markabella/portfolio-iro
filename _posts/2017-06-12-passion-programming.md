@@ -9,21 +9,21 @@ My co-worker Valarie was joking and serious. I had just told her I was ending my
 
 Now I realize how crazy that might have seemed...
 
-<h3>A State Job</h3>
+<h4>A State Job</h4>
 In general, state workers’ number one value is security. With many government positions, you can attain civil service status, which means after a certain amount of time you would always have that position (unless you did something incredibly stupid to get fired). That’s why many covet the state job. You're virtually unfireable.
 
 Not only that, but the benefits in California are amazing: healthcare and a generous pension. If you value security and benefits above all else, then you might find yourself at home in government position. To leave such a sacred position was blasphemy.
 
 I was blessed to have a state job.
 
-<h3>The Call</h3>
+<h4>The Call</h4>
 Though I could not help how strongly I was called to programming. After work, I took night school classes at my local community college. The classes inspired me to create a program for my state job. I spent weekends and all my free time coding this program. I knew would save the state money and my co-workers hassle. Management loved it and so did my co-workers.
 
 I was hooked.
 
 I was so hooked that I asked the state if I could have a leave of absence so I could focus on my education. They were hesitant at first. Though with all the value I brought the state from the classes I already completed, they allowed me a semester of time off work to get my Associates Degree in Computer Programming.
 
-<h3>Unique Ability</h3>
+<h4>Unique Ability</h4>
 During this time, not only did I attend college but I also created my first Android game. My friends and co-workers were impressed.
 
 I had found, what Dan Sullivan calls, my unique ability: something I like doing, I’m at good doing it, I get better each time I do it, others would pay me to do it, and time stands still.
