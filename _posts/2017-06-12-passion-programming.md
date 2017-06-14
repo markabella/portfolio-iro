@@ -3,7 +3,7 @@ layout: post
 title: Passion for Programming
 ---
 
-<h4>“You’re wrong and you’re crazy, but I fully support you.”</h4>
+<b>“You’re wrong and you’re crazy, but I fully support you.”</b>
 
 My co-worker Valarie was joking and serious. I had just told her I was ending my state job to start a new career in software development.
 

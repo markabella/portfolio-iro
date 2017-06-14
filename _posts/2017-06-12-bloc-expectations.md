@@ -2,7 +2,8 @@
 layout: post
 title: Bloc's Software Development Track
 ---
-<h4>“What do you enjoy doing so much... you would pay to do it?”</h4>
+
+<b>“What do you enjoy doing so much... you would pay to do it?”</b>
 
 If you're like me and "writing code" is on your list, you’re in luck.
 
