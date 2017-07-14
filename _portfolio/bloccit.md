@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bloccit
-thumbnail-path: "http://markabella.me/img/bloccit.png"
+thumbnail-path: "http://markabella.me/img/bloccit_thumb.png"
 short-description: Reddit Clone
 
 ---
