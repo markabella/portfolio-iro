@@ -2,7 +2,7 @@
 layout: post
 title: Bloccit
 thumbnail-path: "http://markabella.me/img/bloccit.png"
-short-description: Readit Clone
+short-description: Reddit Clone
 
 ---
 
