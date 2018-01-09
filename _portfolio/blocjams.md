@@ -6,8 +6,8 @@ short-description: Online Music Player
 
 ---
 
-Link: "https://github.com/markabella/bloc-jams" <br>
-Link AngularJS: "https://github.com/markabella/bloc-jams-angular"
+Link: <a href="https://github.com/markabella/bloc-jams">https://github.com/markabella/bloc-jams</a> <br>
+Link AngularJS: <a href="https://github.com/markabella/bloc-jams-angular">https://github.com/markabella/bloc-jams-angular</a>
 
 <h4>Summary</h4>
 Spotify uses a cool music player to allow users to enjoy music online while browsing their website. Building this type music player and site from scratch allowed me to learn and apply key concepts of frontend development via Bloc's Software Development Track.
